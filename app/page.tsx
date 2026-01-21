@@ -1,9 +1,9 @@
-// import { useState } from "react";
-import { Button } from "../app/_components/ui/button";
+// // import { useState } from "react";
+// import { Button } from "../_components/ui/button";
 
-//SERVER COMPONENTS
-const Home = () => {
-  return <Button>Click me</Button>;
-}
+// //SERVER COMPONENTS
+// const Home = () => {
+//   return <Button>Click me</Button>;
+// }
 
-export default Home;
+// export default Home;
