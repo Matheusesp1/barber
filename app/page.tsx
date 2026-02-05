@@ -1,9 +1,8 @@
-// // import { useState } from "react";
-// import { Button } from "../_components/ui/button";
-
-// //SERVER COMPONENTS
-// const Home = () => {
-//   return <Button>Click me</Button>;
-// }
-
-// export default Home;
+"use client"
+import { useState } from "react"
+//SERVER COMPONENTS
+const Home = () => {
+  const [] = useState()
+  return <h1 className="text-red-500py">Hello world!</h1>
+}
+export default Home
