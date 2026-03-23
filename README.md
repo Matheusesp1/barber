@@ -6,6 +6,27 @@
 - [X] Git Hooks -->
 
 
+# 💈 SaaS Barbearia
+
+Sistema SaaS para gerenciamento de barbearias — agendamentos, clientes e serviços em um só lugar.
+
+## 🚀 Funcionalidades
+
+- 📅 Agendamento online
+- 👤 Cadastro de clientes
+- ✂️ Gestão de serviços (corte, barba, etc.)
+- 💰 Controle de pagamentos
+- 📊 Dashboard com métricas
+- 🔔 Notificações (opcional)
+
+## 🛠️ Tecnologias utilizadas
+
+- Frontend: (ex: React, Next.js)
+- Backend: (ex: Node.js, NestJS)
+- Banco de dados: (ex: PostgreSQL, MongoDB)
+- Autenticação: (ex: JWT, Firebase)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
